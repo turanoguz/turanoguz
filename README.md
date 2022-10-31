@@ -1,7 +1,7 @@
-Hi there 👋
+# **Hi there** 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=turanoguz&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=turanoguz&show_icons=true&theme=radical)
+
